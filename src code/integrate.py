@@ -14,8 +14,8 @@ last_email_time = 0
 
 def send_email():
     try:
-        fromaddr = "sender's mailid"
-        toaddr = "gayathrymw@gmail.com"
+        fromaddr = "sender's mail id"
+        toaddr = "receiver's mail id"
         msg = MIMEMultipart()
         msg['From'] = fromaddr
         msg['To'] = toaddr
