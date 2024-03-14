@@ -8,6 +8,7 @@ This project implements an Intrusion Detection Robot using Raspberry Pi, OpenCV 
 - Alarm Activation: Upon detecting an intruder, the robot triggers a buzzer alarm to alert the user.
 - Email Notification: Sends an email notification with an attached image of the intruder to the user's email address.
 - Remote Control: Allows remote control of the robot's movement via a web interface.
+  
   ![image](https://github.com/Shpulluri/Intrusion-Detection-Robot/assets/93041504/bad32de8-8239-451c-bd06-9a20e56bf777)
 
 
