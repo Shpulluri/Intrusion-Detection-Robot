@@ -9,8 +9,7 @@ This project implements an Intrusion Detection Robot using Raspberry Pi, OpenCV 
 - Email Notification: Sends an email notification with an attached image of the intruder to the user's email address.
 - Remote Control: Allows remote control of the robot's movement via a web interface.
   
-  ![image](https://github.com/Shpulluri/Intrusion-Detection-Robot/assets/93041504/bad32de8-8239-451c-bd06-9a20e56bf777)
-
+  ![image](https://github.com/Shpulluri/Intrusion-Detection-Robot/assets/93041504/f9c7a4fd-94c5-4f58-a827-2db0c7360521)
 
   ### Components:
 - Raspberry Pi: Acts as the central processing unit, responsible for image processing, email sending, and web server hosting.
@@ -25,7 +24,10 @@ This project implements an Intrusion Detection Robot using Raspberry Pi, OpenCV 
 - Connect the buzzer to the GPIO pins of the Raspberry Pi. Ensure you've identified the correct GPIO pins for input/output and power.
 - If your robot includes motor and wheel setup for movement control:
 - Connect the motors to the GPIO pins using a motor driver board and securely attach the wheels to the motor shafts.
+
+  ![image](https://github.com/Shpulluri/Intrusion-Detection-Robot/assets/93041504/5306f477-e9e4-4ae5-a5bb-922efea12694)
   
+
 ### Software Setup:
 - Python Environment:
   Ensure Python is installed on your Raspberry Pi. You can check by running python --version in the terminal.
@@ -37,3 +39,7 @@ This project implements an Intrusion Detection Robot using Raspberry Pi, OpenCV 
   
 - Web Server Configuration:
   Configure the Flask web server to run on your Raspberry Pi. Set the appropriate host and port in the Flask app.
+
+
+### Running the application:
+
