@@ -43,7 +43,7 @@ This project implements an Intrusion Detection Robot using Raspberry Pi, OpenCV 
 
 ### Running the application:
 - Clone the repository to your Raspberry Pi by running the following command in the terminal:
-  '''git clone https://github.com/Shpulluri/Intrusion-Detection-Robot/'''
+  ```git clone https://github.com/Shpulluri/Intrusion-Detection-Robot/```
 
 - Execute the following command to start the web server and intrusion detection functionality:
   '''python integrate.py'''
